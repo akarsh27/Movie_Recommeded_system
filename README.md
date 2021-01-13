@@ -1,5 +1,4 @@
-# KNN Movie_Recommeded_system
+# Movie_Recommeded_system
 
-Dataset used for Average Weighted recommendation :- ##Dataset url: https://grouplens.org/datasets/movielens/latest/
+Dataset used for Average Weighted recommendation :- https://www.kaggle.com/tmdb/tmdb-movie-metadata 
 
-K nearest neighbour algorithem 
